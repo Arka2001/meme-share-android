@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme Share</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="appBarTitle">M E M E S H A R E</string>
+    <string name="imageContentDesc">meme image display</string>
+</resources>
