@@ -2,7 +2,10 @@
 <hr/>
 
 #### Made With:
-<center><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></center>
+<p align="center">
+  <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">&nbsp
+  <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+</p>
 
 This is a learning project which I have created for learning about API Calls, ImageView, Intents and Activities in Android.
 
